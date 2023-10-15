@@ -8,6 +8,7 @@ This is a starter kit for wordpress theme and plugin development environment by 
 2. `Nginx` as web server
 3. `PHP` programming languege
 4. `MariaDB` database
+5. `phpMyAdmin` database administration
 
 ## Usage
 
